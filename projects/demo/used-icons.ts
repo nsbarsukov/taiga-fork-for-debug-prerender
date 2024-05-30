@@ -139,6 +139,7 @@ export const TUI_USED_ICONS = [
     'tuiIconMapPinLarge',
     'tuiIconSendLarge',
     'tuiIconTrashLarge',
+    'tuiIconGridLarge',
     'tuiIconCreditCard',
     'tuiIconAlertCircle',
     'tuiIconBellLarge',
