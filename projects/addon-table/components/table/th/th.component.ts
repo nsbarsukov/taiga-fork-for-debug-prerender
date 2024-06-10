@@ -1,5 +1,4 @@
 /// <reference types="@taiga-ui/tsconfig/ng-dev-mode" />
-import {AsyncPipe, NgIf, NgTemplateOutlet} from '@angular/common';
 import {
     ChangeDetectionStrategy,
     Component,
@@ -11,17 +10,14 @@ import {
 } from '@angular/core';
 import type {TuiComparator} from '@taiga-ui/addon-table/types';
 import {tuiDefaultSort, tuiProvide} from '@taiga-ui/cdk';
-import {TUI_ELEMENT_REF, TuiSvgComponent} from '@taiga-ui/core';
+import {TUI_ELEMENT_REF} from '@taiga-ui/core';
 
 import {TuiHeadDirective} from '../directives/head.directive';
-import {TuiResizedDirective} from '../directives/resized.directive';
 import {TuiTableDirective} from '../directives/table.directive';
 import {TUI_TABLE_OPTIONS} from '../table.options';
 
 @Component({
-    standalone: true,
     selector: 'th[tuiTh]',
-    imports: [TuiResizedDirective, NgIf, NgTemplateOutlet, TuiSvgComponent, AsyncPipe],
     templateUrl: './th.template.html',
     styleUrls: ['./th.style.less'],
     changeDetection: ChangeDetectionStrategy.OnPush,

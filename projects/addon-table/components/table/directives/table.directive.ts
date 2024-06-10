@@ -17,7 +17,6 @@ import {TUI_TABLE_PROVIDERS} from '../providers/table.providers';
 import {TUI_TABLE_OPTIONS} from '../table.options';
 
 @Directive({
-    standalone: true,
     selector: 'table[tuiTable]',
     providers: TUI_TABLE_PROVIDERS,
     host: {

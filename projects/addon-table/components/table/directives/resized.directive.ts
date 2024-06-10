@@ -5,7 +5,6 @@ import {TUI_ELEMENT_REF} from '@taiga-ui/core';
 import {distinctUntilChanged, map, switchMap, takeUntil} from 'rxjs';
 
 @Directive({
-    standalone: true,
     selector: '[tuiResized]',
 })
 export class TuiResizedDirective {
