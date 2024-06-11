@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[44499],{30637:(a,e,s)=>{s.r(e),s.d(e,{TUI_TURKISH_LANGUAGE_ADDON_TABLE:()=>n});const n={showHideText:"G\xf6ster/Hizle",paginationTexts:{pages:"Sayfa",linesPerPage:"G\xf6r\xfcnt\xfclenen",of:"toplam"}}}}]);

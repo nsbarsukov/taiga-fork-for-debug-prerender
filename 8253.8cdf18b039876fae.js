@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[8253],{8253:e=>{e.exports='<tui-bar-set\n    class="bars"\n    [value]="value"\n/>\n'}}]);

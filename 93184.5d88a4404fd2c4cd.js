@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[93184],{93184:t=>{t.exports='```html\n<tui-input [formControl]="user">\n  User\n  <tui-data-list-wrapper\n    *tuiDataList\n    [items]="items | tuiFilterByInput"\n  ></tui-data-list-wrapper>\n</tui-input>\n```\n'}}]);

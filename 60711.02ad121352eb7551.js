@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[60711],{60711:t=>{t.exports='```html\n<tui-tooltip\n  content="Please don\'t touch this"\n  direction="left"\n></tui-tooltip>\n```\n'}}]);

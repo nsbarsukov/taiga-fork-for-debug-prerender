@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[77236],{77236:n=>{n.exports="```ts\nimport {Component} from '@angular/core';\nimport {TuiBlockDetailsDirective} from '@taiga-ui/layout';\n// ...\n\n@Component({\n  standalone: true,\n  imports: [\n    // ...\n    TuiBlockDetailsDirective,\n  ],\n})\nexport class MyComponent {}\n```\n"}}]);

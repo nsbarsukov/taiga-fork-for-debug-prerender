@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[35878],{35878:e=>{e.exports='```html\n<tui-primitive-textfield [(value)]="value">Type something</tui-primitive-textfield>\n```\n'}}]);
