@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[69003],{69003:e=>{e.exports='<tui-input-number [(ngModel)]="value">Only integers</tui-input-number>\n'}}]);

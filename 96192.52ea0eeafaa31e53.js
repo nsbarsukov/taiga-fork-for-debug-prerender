@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[96192],{96192:e=>{e.exports=".content {\n    display: flex;\n    align-items: center;\n    padding: 0.875rem 0;\n}\n\n.delete-button {\n    margin-left: auto;\n}\n"}}]);

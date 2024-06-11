@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[78061],{78061:n=>{n.exports='<tui-loader class="inline-flex">\n    <button\n        tuiButton\n        type="button"\n    >\n        Loading button\n    </button>\n</tui-loader>\n'}}]);

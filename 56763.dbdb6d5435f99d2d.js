@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[56763],{56763:e=>{e.exports=":host {\n    display: block;\n    margin: -1.25rem;\n    padding: 1.875rem;\n    background: #3e4757;\n    color: var(--tui-base-01);\n}\n"}}]);

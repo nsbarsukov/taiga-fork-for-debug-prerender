@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[47630],{47630:t=>{t.exports='```html\n<tui-input-date [tuiDateFormat]="{mode, separator}"></tui-input-date>\n```\n'}}]);

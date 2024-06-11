@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[23638],{22812:(e,a,u)=>{u.r(a),u.d(a,{TUI_TURKISH_LANGUAGE_ADDON_COMMERCE:()=>d});const d={cardNumber:["Kart No","Kart Numaras\u0131"],cardExpiry:["SKT","Son Kullanma"]}}}]);

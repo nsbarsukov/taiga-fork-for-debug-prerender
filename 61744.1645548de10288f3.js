@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[61744],{61744:e=>{e.exports='```html\n<div (tuiSwipe)="..."></div>\n```\n'}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[17476],{17476:t=>{t.exports='```html\n<form [formGroup]="testForm">\n  <tui-input formControlName="testValue">\n    Type a text\n    <input tuiTextfieldLegacy />\n  </tui-input>\n</form>\n```\n'}}]);
