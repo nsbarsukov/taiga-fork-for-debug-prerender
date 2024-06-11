@@ -1,1 +1,0 @@
-(self.webpackChunk_taiga_ui_components=self.webpackChunk_taiga_ui_components||[]).push([[94075],{94075:n=>{n.exports=":host {\n    display: flex;\n    gap: 1rem;\n}\n\n.star {\n    background: rgb(66, 139, 250);\n    color: #fff;\n}\n"}}]);
