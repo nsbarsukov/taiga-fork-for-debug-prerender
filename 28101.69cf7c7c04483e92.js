@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[28101],{28101:e=>{e.exports=".settings {\n    margin: 1rem;\n}\n"}}]);

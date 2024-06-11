@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[53951],{53951:e=>{e.exports="<p>Transform 10 into {{ 10 | tuiMapper: mapper : '\u20bd' }}</p>\n"}}]);

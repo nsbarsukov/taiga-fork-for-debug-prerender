@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[85880],{85880:e=>{e.exports='```html\n<tui-icon icon="tuiIconCheck"></tui-icon>\n```\n'}}]);

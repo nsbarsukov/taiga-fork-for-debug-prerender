@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[28027],{28027:e=>{e.exports="<label>\n    <b>Your browser is:</b>\n</label>\n\n<p>{{ aboutMyBrowser }}</p>\n"}}]);

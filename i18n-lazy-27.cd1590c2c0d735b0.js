@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[42798],{88821:(E,e,s)=>{s.r(e),s.d(e,{TUI_CHINESE_LANGUAGE_ADDON_TABLE:()=>A});const A={showHideText:"\u663e\u793a/\u9690\u85cf",paginationTexts:{pages:"\u9875\u9762",linesPerPage:"\u6bcf\u9875\u884c\u6570",of:"\u4e8e"}}}}]);

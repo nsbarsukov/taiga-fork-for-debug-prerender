@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[57150],{57150:s=>{s.exports=".success {\n    position: relative;\n    color: var(--tui-success-fill);\n}\n"}}]);

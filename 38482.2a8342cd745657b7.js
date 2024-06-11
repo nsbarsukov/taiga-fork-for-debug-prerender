@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[38482],{38482:e=>{e.exports="```html\n<tui-calendar-range />\n```\n"}}]);
