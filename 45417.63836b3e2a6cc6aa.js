@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[45417],{45417:e=>{e.exports='<tui-range\n    [formControl]="control"\n    [max]="10"\n    [step]="1"\n/>\n'}}]);

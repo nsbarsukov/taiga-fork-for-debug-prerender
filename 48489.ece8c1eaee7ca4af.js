@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[48489],{48489:s=>{s.exports='```html\n<span [tuiCopyProcessor]="processor">\n  ...\n</div>\n```\n'}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdemo=self.webpackChunkdemo||[]).push([[20139],{20139:e=>{e.exports='<tui-input-tag\n    tuiHintContent="\u0645\u0648\u0646\u062a\u06cc \u067e\u0627\u06cc\u062a\u0648\u0646"\n    tuiTextfieldIconLeft="tuiIconSearchLarge"\n    class="input"\n    [tuiTextfieldCleaner]="true"\n    [tuiTextfieldLabelOutside]="true"\n    [(ngModel)]="value"\n/>\n'}}]);
