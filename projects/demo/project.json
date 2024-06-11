@@ -44,7 +44,7 @@
                         "output": "assets/taiga-ui/icons"
                     }
                 ],
-                "baseHref": "./",
+                "baseHref": "/taiga-fork-for-debug-prerender/",
                 "styles": [
                     "{projectRoot}/src/styles/normalize.less",
                     "{projectRoot}/src/styles/styles.less",
