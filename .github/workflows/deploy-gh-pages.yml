@@ -35,9 +35,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4.0.0
         if: ${{ github.event.inputs.dryRun != 'true' }}
         with:
-          github_token: ${{ secrets.TAIGA_FAMILY_BOT_PAT }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ${{ env.DIST }}
-          cname: taiga-ui.dev
 
 concurrency:
   group: deploy-gh-pages
